@@ -1,5 +1,8 @@
 # MinecraftGPT Plugin
 
+![image](https://github.com/user-attachments/assets/bc5e78c4-e18f-4a0a-a07b-1c73715ce502)
+
+
 A Minecraft plugin that allows players to interact with GPT-4 AI directly in the game using the `/ask` command.
 
 ## Features
