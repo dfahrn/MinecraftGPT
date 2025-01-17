@@ -1,0 +1,10 @@
+name: MinecraftGPT
+version: 1.0
+main: com.minecraft.gpt.MinecraftGPT
+api-version: 1.20
+description: A plugin that adds ChatGPT functionality to Minecraft
+commands:
+  ask:
+    description: Ask ChatGPT a question
+    usage: /ask <question>
+    permission: minecraftgpt.use 
