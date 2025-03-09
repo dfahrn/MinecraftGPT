@@ -1,6 +1,5 @@
 # MinecraftGPT Plugin
 
-![image](https://github.com/user-attachments/assets/bc5e78c4-e18f-4a0a-a07b-1c73715ce502)
 
 ![image](https://github.com/user-attachments/assets/d4eb585a-5282-49a0-b21c-78d7993699d9)
 
